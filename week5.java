@@ -36,7 +36,7 @@ public class week5 {
         AlimMaria.display();
 
         Pergis.display();
-
+        Rivera.display();
 
         Velayo.display();
 
